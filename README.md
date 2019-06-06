@@ -1,2 +1,2 @@
-# Min-Max-Sum
-Solution of the https://www.hackerrank.com/challenges/mini-max-sum/problem
+### Min-Max-Sum
+Solution of the [problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) on [HackerRank](https://www.hackerrank.com/)
